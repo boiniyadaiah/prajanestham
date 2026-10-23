@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.Prajanestham" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#B5121B</item>
+        <item name="colorPrimaryVariant">#850D14</item>
+        <item name="colorSecondary">#FFC107</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#850D14</item>
+        <item name="android:navigationBarColor">#121212</item>
+    </style>
+</resources>
